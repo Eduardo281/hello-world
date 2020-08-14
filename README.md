@@ -1,4 +1,4 @@
 # hello-world
-My First Git Repository
+Just a simple "Hello World" Repository.
 
-And now with a README file with some more text!
+Enjoy :)
